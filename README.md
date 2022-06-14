@@ -2,4 +2,4 @@
 
 This project was the first challenge for coding bootcamp. The challenge consisted of taking a previously constructed website and making it more accesible while also cleaning up the code. Here is my finished project.
 
-file:///C:/Users/18123/Desktop/projects/Challenge-1-Horiseon/Develop/index.html
+https://evanbruce38.github.io/Challenge-1-Horiseon/
